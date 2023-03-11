@@ -14,6 +14,7 @@
 		8B5280B429BC12A800C82270 /* Fetch_MealTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5280B329BC12A800C82270 /* Fetch_MealTests.swift */; };
 		8B5280BE29BC12A800C82270 /* Fetch_MealUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5280BD29BC12A800C82270 /* Fetch_MealUITests.swift */; };
 		8B5280C029BC12A800C82270 /* Fetch_MealUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5280BF29BC12A800C82270 /* Fetch_MealUITestsLaunchTests.swift */; };
+		8B5280CD29BC12BE00C82270 /* MealView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5280CC29BC12BE00C82270 /* MealView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8B5280B929BC12A800C82270 /* Fetch-MealUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fetch-MealUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B5280BD29BC12A800C82270 /* Fetch_MealUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetch_MealUITests.swift; sourceTree = "<group>"; };
 		8B5280BF29BC12A800C82270 /* Fetch_MealUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetch_MealUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8B5280CC29BC12BE00C82270 /* MealView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				8B5280A229BC12A600C82270 /* Fetch_MealApp.swift */,
 				8B5280A429BC12A600C82270 /* ContentView.swift */,
+				8B5280CC29BC12BE00C82270 /* MealView.swift */,
 				8B5280A629BC12A800C82270 /* Assets.xcassets */,
 				8B5280A829BC12A800C82270 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				8B5280A529BC12A600C82270 /* ContentView.swift in Sources */,
 				8B5280A329BC12A600C82270 /* Fetch_MealApp.swift in Sources */,
+				8B5280CD29BC12BE00C82270 /* MealView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
